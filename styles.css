@@ -1,0 +1,35 @@
+.life{
+	font-size: 30px;
+	font-family: Arial;
+	border:8px solid black;
+	color: blue;
+}
+.p2{
+	line-height: 1.6em;
+	color: red;
+	  column-count: 3;
+}
+.Lion{
+	text-align: center;
+	text-decoration: underline;
+	color: orange;
+}
+i{
+	text-decoration: line-through;
+}
+.center{
+	text-align: center;
+}
+.big{
+	font-size: 200%;
+	color: darkgreen;
+}
+table{
+	font-size: 3.6em
+}
+.animal{
+		padding-right: 5%;
+		padding-left: 10%;
+		padding-bottom: 10%;
+		padding-top: 10%
+}
